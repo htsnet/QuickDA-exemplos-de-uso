@@ -7,3 +7,5 @@ Exemplos de uso da biblioteca QuickDA para análise exploratória de dados
 Para o uso basta instalar com o comando *pip install quickda*
 
 Esta biblioteca tem como objetivo explorar datasets de forma rápida e com apenas uma linha.
+
+Para estes exemplos foi utilizado o dataset *titanic*, amplamente conhecido.
